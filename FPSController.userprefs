@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RigidController.js">
+    <Files>
+      <File FileName="Assets\Scripts\RigidController.js" Line="16" Column="19" />
+      <File FileName="Assets\Scripts\FPSWalkerAdvanced.js" Line="203" Column="27" />
+      <File FileName="Assets\Scripts\Frag.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
